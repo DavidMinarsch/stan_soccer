@@ -49,5 +49,5 @@ Run the notebook from the browser!
 
 ## Or run from Command Line
 ```
-$ python regression.py
+$ python worldcup.py
 ```
